@@ -10,7 +10,7 @@ pip install -r requirements.txt
 ```
 
 ```
-uvicorn api:app --reload
+uvicorn uvicorn main:app --reload
 ```
 
 ### dockerize it at first
